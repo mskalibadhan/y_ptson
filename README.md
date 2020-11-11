@@ -1,8 +1,54 @@
 {
-	"ConfigVersion": 8.0,
+	"ConfigVersion": 104.6,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
-	"Networks": [{
+	"Networks": [
+	{
+			"Name":"Protocol UDP",
+			"Info":"Direct UDP Tunnel",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Direct":"",
+			"Sni":"",
+			"Payload":""
+		},
+		
+        {
+			"Name": "Zain free (SK)",
+			"Info": "Zain Free",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+	{
+			"Name": "Mobily Free Block AREA (SK)",
+			"Info": "Mobily Free",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+	{
+			"Name": "Singapore StarHub Free (BD)",
+			"Info": "StarHub Network",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "",
+			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😔😱😡😱😍😱😋😱🙁😅🙁😍😆😍😁😱😂😍😅😱😘😍😄😱😅😱😍😱😄😱😄😅🙁😱😆😱😡😱😖😅🙁😍😆😱😍😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+		},
+	{
 			"Name": "Singapore Vivobee Free (BD)",
 			"Info": "Vivobee Network",
 			"FrontQuery": "",
@@ -14,29 +60,7 @@
 			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😍😱😱😋😍😱😱😡😱😅😱😄😱😄😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😍😱😱😋😍😱😱😡😱😅😱😄😱😄😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
 		},
 		{
-			"Name": "Dhiragu 4/10/25 Streming (SK)",
-			"Info": "Dhiragu Strem",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Direct": "",
-			"Sni": "😱😖😅🙁😍😋😱😡😍😄😍😁😍😄😱😅😱😄😅🙁😱😆😱😡😱😖",
-			"Payload": ""
-		},
-		{
-			"Name": "Dhiragu 4/10/20 Strem 2 (SK)",
-			"Info": "Dhiragu Strem",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Direct": "",
-			"Sni": "😍😍😍😍😍😍😅🙁😱🙁😱😄😍😁😱😱😱😔😱😋😍😘😅🙁😱😆😱😡😱😖",
-			"Payload": ""
-		},
-		{
-			"Name": "Brunei Progresif free (BD)",
+			"Name": "Brunei Imagine free (BD)",
 			"Info": "Brunei Freenet",
 			"FrontQuery": "",
 			"BackQuery": "",
@@ -44,66 +68,29 @@
 			"CustomProxy": "",
 			"Direct": "",
 			"Sni": "",
-			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😁😛😱😅😱😋😱😅😱😁😅🙁😱😆😱😡😱😖😅🙁😱😅😱🙁😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😍😁😄😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😅😱😋😱😅😱😁😅🙁😱😆😱😡😱😖😅🙁😱😅😱🙁😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😅😱😋😱😅😱😁😅🙁😱😆😱😡😱😖😅🙁😱😅😱🙁😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😅😱😋😱😅😱😁😅🙁😱😆😱😡😱😖😅🙁😱😅😱🙁😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😱😱😡😍😅😍😍😱😂😍😅😱😁😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😅😱😋😱😅😱😁😅🙁😱😆😱😡😱😖😅🙁😱😅😱🙁😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😁😛😱😂😱😁😍😱😱😋😱😆😱😄😅🙁😱😋😱😖😱😂😱😍😱😋😱🙁😱😄😅🙁😱😆😱😡😱😖😅🙁😱😅😱🙁😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😛😁😡😄😆😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😂😱😁😍😱😱😋😱😆😱😄😅🙁😱😋😱😖😱😂😱😍😱😋😱🙁😱😄😅🙁😱😆😱😡😱😖😅🙁😱😅😱🙁😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😂😱😁😍😱😱😋😱😆😱😄😅🙁😱😋😱😖😱😂😱😍😱😋😱🙁😱😄😅🙁😱😆😱😡😱😖😅🙁😱😅😱🙁😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😂😱😁😍😱😱😋😱😆😱😄😅🙁😱😋😱😖😱😂😱😍😱😋😱🙁😱😄😅🙁😱😆😱😡😱😖😅🙁😱😅😱🙁😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😱😱😡😍😅😍😍😱😂😍😅😱😁😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😂😱😁😍😱😱😋😱😆😱😄😅🙁😱😋😱😖😱😂😱😍😱😋😱🙁😱😄😅🙁😱😆😱😡😱😖😅🙁😱😅😱🙁😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
 		},
-        {
-            "Name": "Vodafone Free (BD)",
-            "Info": "Qatar Vodafone Free with 0 balance",
-            "FrontQuery": "",
-            "BackQuery": "",
-            "UseCustom": false,
-            "CustomProxy": "",
-            "Direct": "",
-            "Sni": "",
-            "Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😱😍😱😂😱😖😱😄😍😆😍😁😱😄😍😅😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😱😍😱😂😱😖😱😄😍😆😍😁😱😄😍😅😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😱😱😡😍😅😍😍😱😂😍😅😱😁😱😄😱😁😅😖😁😱😱😡😍😅😆😎😅😛😍😍😍😍😍😍😅🙁😱😍😱😂😱😖😱😄😍😆😍😁😱😄😍😅😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
-        },
-		
-        {
-			"Name": "Mobily free (BD)",
-			"Info": "Only working Dammam Riyadh Madina Najran Ha'il Alkassim Yanbu Area",
+		{
+			"Name": "STC Education  1 (SK)",
+			"Info": "Saudi Stc type 2132 send 900",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Direct": "",
-			"Sni": "",
-			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😁😛😱😋😱😄😱🙁😅🙁😱😄😱😁😍😄😅🙁😍😆😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😛😁😡😄😆😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😋😱😄😱🙁😅🙁😱😄😱😁😍😄😅🙁😍😆😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😋😱😄😱🙁😅🙁😱😄😱😁😍😄😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😋😱😄😱🙁😅🙁😱😄😱😁😍😄😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+			"Sni": "😍😍😍😍😍😍😅🙁😍😎😱😡😱😡😱😖😅🙁😍😄😍😆",
+			"Payload": ""
 		},
-		
-        {
-			"Name": "Mobily free 2 (BD)",
-			"Info": "Only working Dammam Riyadh Madina Najran Ha'il Alkassim Yanbu Area",
+		{
+			"Name": "STC Education 2 (SK)",
+			"Info": "Saudi Stc Sim type 2132 send 900",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Direct": "",
-			"Sni": "",
-			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😁😛😱😋😱😄😱🙁😅🙁😱😄😱😁😍😄😅🙁😍😆😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😍😁😄😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😋😱😄😱🙁😅🙁😱😄😱😁😍😄😅🙁😍😆😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😋😱😄😱🙁😅🙁😱😄😱😁😍😄😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
-		},
-		
-        {
-			"Name": "STC free 1 (BD)",
-			"Info": "Saudi STC Free",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Direct": "",
-			"Sni": "",
-			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😋😱😄😱🙁😅🙁😱😄😱😁😍😄😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😋😱😄😱🙁😅🙁😱😄😱😁😍😄😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
-		},
-		
-        {
-			"Name": "STC free 2 (BD)",
-			"Info": "Saudi STC Free",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Direct": "",
-			"Sni": "",
-			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😋😱😄😱🙁😅🙁😱😄😱😁😍😄😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+			"Sni": "😍😎😱😡😱😡😱😖😅🙁😍😄😍😆",
+			"Payload": ""
 		},
 		{
 			"Name": "STC TV 1 (SK)",
@@ -116,16 +103,49 @@
 			"Sni": "😍😍😍😍😍😍😅🙁😱😎😱😂😍😍😍😍😍😋😅🙁😍😁😍😱",
 			"Payload": ""
 		},
-		
-        {
+		{
 			"Name": "STC TV 2 (SK)",
-			"Info": "Saudi STC net",
+			"Info": "Saudi Stc Net",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Direct": "",
 			"Sni": "😱😁😱😔😅🙁😱😎😱😂😍😍😍😍😍😋😅🙁😍😁😍😱",
+			"Payload": ""
+		},
+		
+        {
+			"Name": "STC TV 3 (BD)",
+			"Info": "Saudi STC net",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "",
+			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😁😱😔😅🙁😱😎😱😂😍😍😍😍😍😋😅🙁😍😁😍😱😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+		},
+		{
+			"Name": "Mobily 4/20/60 SAR (SK)",
+			"Info": "Mobily New Social",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
+			"Name": "Mobily 4/20/60 SAR 2 (SK)",
+			"Info": "Mobily New Social",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😱😖😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
 			"Payload": ""
 		},
 		{
@@ -140,14 +160,14 @@
 			"Payload": ""
 		},
 		{
-			"Name": "Mobily 25 SAR (SK)",
+			"Name": "Mobily 25 SAR (SD)",
 			"Info": "saudi Social",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
-			"Direct": "",
-			"Sni": "😍😍😍😍😍😍😅🙁😍😁😍😍😱😋😍😁😍😁😱😄😍😅😅🙁😱😆😱😡😱😖",
+			"Direct": "😍😍😍😍😍😍😅🙁😍😁😍😍😱😋😍😁😍😁😱😄😍😅😅🙁😱😆😱😡😱😖",
+			"Sni": "",
 			"Payload": ""
 		},
 		{
@@ -273,6 +293,28 @@
 			"Payload": ""
 		},
 		{
+			"Name": "Dhiragu 4/10/25 Streming (SK)",
+			"Info": "Dhiragu Strem",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😱😖😅🙁😍😋😱😡😍😄😍😁😍😄😱😅😱😄😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
+			"Name": "Dhiragu 4/10/25 Strem 2 (SD)",
+			"Info": "Dhiragu Strem",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "😱😖😅🙁😍😋😱😡😍😄😍😁😍😄😱😅😱😄😅🙁😱😆😱😡😱😖",
+			"Sni": "",
+			"Payload": ""
+		},
+		{
 			"Name": "Ooredoo PUBG Unlimited (SK)",
 			"Info": "Ooredoo Pubg games", 
 			"FrontQuery": "",
@@ -281,6 +323,50 @@
 			"CustomProxy": "",
 			"Direct": "",
 			"Sni": "😍😍😍😍😍😍😅🙁😍😛😍😄😱😅😱😍😱😖😱😡😱😅😱😋😱😔😱😄😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
+			"Name": "Ooredoo Chat Pass 1 (SK)",
+			"Info": "ooredoo Chatpass",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😍😱😱😋😱😅😱😄😍😅😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
+			"Name": "Ooredoo Chat Pass 2 (SK)",
+			"Info": "ooredoo Chatpass",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😍😍😱😄😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
+			"Name": "Ooredoo Social Pass 1 (SK)",
+			"Info": "ooredoo Social 7 days",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😍😁😍😍😱😋😍😁😍😁😱😄😍😅😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
+			"Name": "Ooredoo Social Pass 2 (SK)",
+			"Info": "ooredoo Social Pass 15 days",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
 			"Payload": ""
 		},
 		{
@@ -295,28 +381,6 @@
 			"Payload": ""
 		},
 		{
-			"Name": "Ooredoo All 1 (SK)",
-			"Info": "ooredoo Social",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Direct": "",
-			"Sni": "😍😍😍😍😍😍😅🙁😍😱😱😋😱😅😱😄😍😅😅🙁😱😆😱😡😱😖",
-			"Payload": ""
-		},
-		{
-			"Name": "Ooredoo 3GB (BD)",
-			"Info": "ooredoo Social",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Direct": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😖😅🙁😍😍😱😄😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖",
-			"Sni": "",
-			"Payload": ""
-		},
-		{
 			"Name": "Ooredoo 2GB 3GB 4GB (BD)",
 			"Info": "ooredoo Social",
 			"FrontQuery": "",
@@ -328,18 +392,7 @@
 			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😍😱😱😋😱😅😱😄😍😅😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😍😱😱😋😱😅😱😄😍😅😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
 		},
 		{
-			"Name": "Ooredoo New all 3 (SK)",
-			"Info": "ooredoo Social",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Direct": "",
-			"Sni": "😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
-			"Payload": ""
-		},
-		{
-			"Name": "Maldives Dhiraagu (BD)",
+			"Name": "Maldives Dhiraagu Free (BD)",
 			"Info": "Dhiraagu netorks",
 			"FrontQuery": "",
 			"BackQuery": "",
@@ -438,6 +491,17 @@
 			"Payload": ""
 		},
 		{
+			"Name": "Whatsapp Social 2 (SK)",
+			"Info": "Whatsapp social",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😱😂😍😛😱😋😅🙁😍😍😱😘😱😂😍😁😍😆😱😂😍😛😍😛😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
 			"Name": "TikTok Social (SK)",
 			"Info": "TikTok social",
 			"FrontQuery": "",
@@ -482,6 +546,17 @@
 			"Payload": ""
 		},
 		{
+			"Name": "YT youtube (SK)",
+			"Info": "for youtube browsing",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😱😖😅🙁😍😋😱😡😍😄😍😁😍😄😱😅😱😄😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
 			"Name": "YT youtube Pack (SD)",
 			"Info": "for youtube browsing",
 			"FrontQuery": "",
@@ -493,345 +568,368 @@
 			"Payload": ""
 		},
 		{
-			"Name": "Turkey Vodafone free (BD)",
-			"Info": "Vodafone free",
+			"Name": "Google (SK)",
+			"Info": "Google",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Direct": "",
-			"Sni": "",
-			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😔😱😋😍😱😱😄😅🙁😍😱😱😡😱😁😱😂😱😱😱😡😱🙁😱😄😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
-		}
+			"Sni": "😍😍😍😍😍😍😅🙁😱😍😱😡😱😡😱😍😱😔😱😄😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+        {
+            "Name": "Qatar Flexi Plan 60 QR (BD)",
+            "Info": "Qatar Ooredoo Network",
+            "FrontQuery": "",
+            "BackQuery": "",
+            "UseCustom": false,
+            "CustomProxy": "",
+            "Direct": "",
+            "Sni": "",
+            "Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😁😛😍😍😍😍😍😍😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+        }
 	],
-	"Servers": [{
-			"Name": "Server 1",
-			"ServerHost": "ytk1.yourptsn.live",
+	"Servers": [
+	{
+			"Name":"AutoSelect Servers",
+			"ServerHost": "95.217.210.135",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+		    "Cert":"A",
+			"Torrent": false
+		},
+	{
+			"Name": "Server 1",
+			"ServerHost": "ssh1.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+		    "Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 2",
-			"ServerHost": "ytk2.yourptsn.live",
+			"ServerHost": "ssh2.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+		    "Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 3",
-			"ServerHost": "ytk3.yourptsn.live",
+			"ServerHost": "ssh3.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+		    "Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 4",
-			"ServerHost": "ytk4.yourptsn.live",
+			"ServerHost": "ssh4.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+	        "Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 5",
-			"ServerHost": "ytk5.yourptsn.live",
+			"ServerHost": "ssh5.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+		    "Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 6",
-			"ServerHost": "ytk6.yourptsn.live",
+			"ServerHost": "ssh6.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+	        "Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 7",
-			"ServerHost": "ytk7.yourptsn.live",
+			"ServerHost": "ssh7.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+	        "Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 8",
-			"ServerHost": "ytk8.yourptsn.live",
+			"ServerHost": "ssh8.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 9",
-			"ServerHost": "ytk9.yourptsn.live",
+			"ServerHost": "ssh9.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+		    "Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 10",
-			"ServerHost": "ytk10.yourptsn.live",
+			"ServerHost": "ssh10.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 11",
-			"ServerHost": "ytk11.yourptsn.live",
+			"ServerHost": "ssh11.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 12",
-			"ServerHost": "ytk12.yourptsn.live",
+			"ServerHost": "ssh12.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 13",
-			"ServerHost": "ytk13.yourptsn.live",
+			"ServerHost": "ssh13.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 14",
-			"ServerHost": "ytk14.yourptsn.live",
+			"ServerHost": "ssh14.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 15",
-			"ServerHost": "ytk15.yourptsn.live",
+			"ServerHost": "ssh15.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 16",
-			"ServerHost": "ytk16.yourptsn.live",
+			"ServerHost": "ssh16.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 17",
-			"ServerHost": "ytk17.yourptsn.live",
+			"ServerHost": "ssh17.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 18",
-			"ServerHost": "ytk18.yourptsn.live",
+			"ServerHost": "ssh18.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 19",
-			"ServerHost": "ytk19.yourptsn.live",
+			"ServerHost": "ssh19.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 20",
-			"ServerHost": "ytk20.yourptsn.live",
+			"ServerHost": "ssh20.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 21",
-			"ServerHost": "ytk21.yourptsn.live",
+			"ServerHost": "ssh21.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 22",
-			"ServerHost": "ytk22.yourptsn.live",
+			"ServerHost": "ssh22.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 23",
-			"ServerHost": "ytk23.yourptsn.live",
+			"ServerHost": "ssh23.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 24",
-			"ServerHost": "ytk24.yourptsn.live",
+			"ServerHost": "ssh24.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 25",
-			"ServerHost": "ytk25.yourptsn.live",
+			"ServerHost": "ssh25.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 26",
-			"ServerHost": "ytk26.yourptsn.live",
+			"ServerHost": "ssh26.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 27",
-			"ServerHost": "ytk27.yourptsn.live",
+			"ServerHost": "ssh27.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 28",
-			"ServerHost": "ytk28.yourptsn.live",
+			"ServerHost": "ssh28.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 29",
-			"ServerHost": "ytk29.yourptsn.live",
+			"ServerHost": "ssh29.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 30",
-			"ServerHost": "ytk30.yourptsn.live",
+			"ServerHost": "ssh30.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -840,9 +938,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -851,9 +949,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -862,9 +960,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -873,9 +971,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -884,9 +982,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -895,9 +993,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -906,9 +1004,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -917,9 +1015,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -928,9 +1026,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -939,9 +1037,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -950,9 +1048,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -961,9 +1059,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -972,9 +1070,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -983,9 +1081,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -994,9 +1092,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1005,9 +1103,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1016,9 +1114,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1027,9 +1125,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1038,9 +1136,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1049,9 +1147,9 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1062,7 +1160,7 @@
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1073,7 +1171,7 @@
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1084,7 +1182,7 @@
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1095,7 +1193,7 @@
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1106,7 +1204,7 @@
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1117,7 +1215,7 @@
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1128,7 +1226,7 @@
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1139,7 +1237,7 @@
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1150,7 +1248,7 @@
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
@@ -1161,117 +1259,417 @@
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": true,
+			"Cert":"A",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 61",
 			"ServerHost": "bd1.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
+			"OvpnPortSSL": "4433",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"B",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 62",
 			"ServerHost": "bd2.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
+			"OvpnPortSSL": "4433",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"B",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 63",
 			"ServerHost": "bd3.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
+			"OvpnPortSSL": "4433",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"B",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 64",
 			"ServerHost": "bd4.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
+			"OvpnPortSSL": "4433",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"B",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 65",
 			"ServerHost": "bd5.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
+			"OvpnPortSSL": "4433",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"B",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 66",
 			"ServerHost": "bd6.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
+			"OvpnPortSSL": "4433",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"B",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 67",
 			"ServerHost": "bd7.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
+			"OvpnPortSSL": "4433",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"B",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 68",
 			"ServerHost": "bd8.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
+			"OvpnPortSSL": "4433",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"B",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 69",
 			"ServerHost": "bd9.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
+			"OvpnPortSSL": "4433",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"B",
 			"Torrent": false
 		},
 		{
 			"Name": "Server 70",
 			"ServerHost": "bd10.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "4433",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"B",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 71",
+			"ServerHost": "yt1.yourptsn.live",
+			"OvpnPortTCP": "1194",
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
-			"NewCert": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 72",
+			"ServerHost": "yt2.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 73",
+			"ServerHost": "yt3.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 74",
+			"ServerHost": "yt4.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 75",
+			"ServerHost": "yt5.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 76",
+			"ServerHost": "yt6.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 77",
+			"ServerHost": "yt7.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 78",
+			"ServerHost": "yt8.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 79",
+			"ServerHost": "yt9.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 80",
+			"ServerHost": "yt10.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 81",
+			"ServerHost": "yt11.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 82",
+			"ServerHost": "yt12.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 83",
+			"ServerHost": "yt13.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 84",
+			"ServerHost": "yt14.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 85",
+			"ServerHost": "yt15.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 86",
+			"ServerHost": "yt16.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 77",
+			"ServerHost": "yt17.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 88",
+			"ServerHost": "yt18.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 89",
+			"ServerHost": "yt19.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 90",
+			"ServerHost": "yt20.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 91",
+			"ServerHost": "yt21.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 92",
+			"ServerHost": "yt22.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 93",
+			"ServerHost": "yt23.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 94",
+			"ServerHost": "yt24.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 95",
+			"ServerHost": "yt25.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 96",
+			"ServerHost": "yt26.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 97",
+			"ServerHost": "yt27.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 98",
+			"ServerHost": "yt28.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 99",
+			"ServerHost": "yt29.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 100",
+			"ServerHost": "yt30.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
 			"Torrent": false
 		}
 	]
