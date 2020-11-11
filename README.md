@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 104.6,
+	"ConfigVersion": 104.7,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -604,7 +604,7 @@
 		},
 	{
 			"Name": "Server 1",
-			"ServerHost": "ssh1.yourptsn.live",
+			"ServerHost": "ytk1.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -615,7 +615,7 @@
 		},
 		{
 			"Name": "Server 2",
-			"ServerHost": "ssh2.yourptsn.live",
+			"ServerHost": "ytk2.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -626,7 +626,7 @@
 		},
 		{
 			"Name": "Server 3",
-			"ServerHost": "ssh3.yourptsn.live",
+			"ServerHost": "ytk3.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -637,7 +637,7 @@
 		},
 		{
 			"Name": "Server 4",
-			"ServerHost": "ssh4.yourptsn.live",
+			"ServerHost": "ytk4.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -648,7 +648,7 @@
 		},
 		{
 			"Name": "Server 5",
-			"ServerHost": "ssh5.yourptsn.live",
+			"ServerHost": "ytk5.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -659,7 +659,7 @@
 		},
 		{
 			"Name": "Server 6",
-			"ServerHost": "ssh6.yourptsn.live",
+			"ServerHost": "ytk6.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -670,7 +670,7 @@
 		},
 		{
 			"Name": "Server 7",
-			"ServerHost": "ssh7.yourptsn.live",
+			"ServerHost": "ytk7.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -681,7 +681,7 @@
 		},
 		{
 			"Name": "Server 8",
-			"ServerHost": "ssh8.yourptsn.live",
+			"ServerHost": "ytk8.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -692,7 +692,7 @@
 		},
 		{
 			"Name": "Server 9",
-			"ServerHost": "ssh9.yourptsn.live",
+			"ServerHost": "ytk9.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -703,7 +703,7 @@
 		},
 		{
 			"Name": "Server 10",
-			"ServerHost": "ssh10.yourptsn.live",
+			"ServerHost": "ytk10.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -714,7 +714,7 @@
 		},
 		{
 			"Name": "Server 11",
-			"ServerHost": "ssh11.yourptsn.live",
+			"ServerHost": "ytk11.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -725,7 +725,7 @@
 		},
 		{
 			"Name": "Server 12",
-			"ServerHost": "ssh12.yourptsn.live",
+			"ServerHost": "ytk12.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -736,7 +736,7 @@
 		},
 		{
 			"Name": "Server 13",
-			"ServerHost": "ssh13.yourptsn.live",
+			"ServerHost": "ytk13.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -747,7 +747,7 @@
 		},
 		{
 			"Name": "Server 14",
-			"ServerHost": "ssh14.yourptsn.live",
+			"ServerHost": "ytk14.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -758,7 +758,7 @@
 		},
 		{
 			"Name": "Server 15",
-			"ServerHost": "ssh15.yourptsn.live",
+			"ServerHost": "ytk15.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -769,7 +769,7 @@
 		},
 		{
 			"Name": "Server 16",
-			"ServerHost": "ssh16.yourptsn.live",
+			"ServerHost": "ytk16.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -780,7 +780,7 @@
 		},
 		{
 			"Name": "Server 17",
-			"ServerHost": "ssh17.yourptsn.live",
+			"ServerHost": "ytk17.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -791,7 +791,7 @@
 		},
 		{
 			"Name": "Server 18",
-			"ServerHost": "ssh18.yourptsn.live",
+			"ServerHost": "ytk18.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -802,7 +802,7 @@
 		},
 		{
 			"Name": "Server 19",
-			"ServerHost": "ssh19.yourptsn.live",
+			"ServerHost": "ytk19.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -813,7 +813,7 @@
 		},
 		{
 			"Name": "Server 20",
-			"ServerHost": "ssh20.yourptsn.live",
+			"ServerHost": "ytk20.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -824,7 +824,7 @@
 		},
 		{
 			"Name": "Server 21",
-			"ServerHost": "ssh21.yourptsn.live",
+			"ServerHost": "ytk21.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -835,7 +835,7 @@
 		},
 		{
 			"Name": "Server 22",
-			"ServerHost": "ssh22.yourptsn.live",
+			"ServerHost": "ytk22.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -846,7 +846,7 @@
 		},
 		{
 			"Name": "Server 23",
-			"ServerHost": "ssh23.yourptsn.live",
+			"ServerHost": "ytk23.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -857,7 +857,7 @@
 		},
 		{
 			"Name": "Server 24",
-			"ServerHost": "ssh24.yourptsn.live",
+			"ServerHost": "ytk24.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -868,7 +868,7 @@
 		},
 		{
 			"Name": "Server 25",
-			"ServerHost": "ssh25.yourptsn.live",
+			"ServerHost": "ytk25.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -879,7 +879,7 @@
 		},
 		{
 			"Name": "Server 26",
-			"ServerHost": "ssh26.yourptsn.live",
+			"ServerHost": "ytk26.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -890,7 +890,7 @@
 		},
 		{
 			"Name": "Server 27",
-			"ServerHost": "ssh27.yourptsn.live",
+			"ServerHost": "ytk27.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -901,7 +901,7 @@
 		},
 		{
 			"Name": "Server 28",
-			"ServerHost": "ssh28.yourptsn.live",
+			"ServerHost": "ytk28.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -912,7 +912,7 @@
 		},
 		{
 			"Name": "Server 29",
-			"ServerHost": "ssh29.yourptsn.live",
+			"ServerHost": "ytk29.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
@@ -923,7 +923,7 @@
 		},
 		{
 			"Name": "Server 30",
-			"ServerHost": "ssh30.yourptsn.live",
+			"ServerHost": "ytk30.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
