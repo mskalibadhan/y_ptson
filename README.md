@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 104.9,
+	"ConfigVersion": 105.0,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -27,7 +27,7 @@
 			"Payload": ""
 		},
 	{
-			"Name": "Mobily Free 100% (BD)",
+			"Name": "Mobily Free SA (BD)",
 			"Info": "Mobily Free",
 			"FrontQuery": "",
 			"BackQuery": "",
@@ -652,7 +652,7 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
 		    "Cert":"A",
 			"Torrent": false
