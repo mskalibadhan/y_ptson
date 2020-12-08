@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 105.1,
+	"ConfigVersion": 105.2,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -25,6 +25,17 @@
 			"Direct": "",
 			"Sni": "😍😍😍😍😍😍😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖",
 			"Payload": ""
+		},
+	{
+			"Name": "Mobily Free X SA (BD)",
+			"Info": "Mobily Free working Dammam Riyadh Madina Najran Ha'il Alkassim Yanbu & unblock Area",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "",
+			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😁😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😛😁😡😄😆😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😅😡😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😱😱😡😍😅😍😍😱😂😍😅😱😁😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
 		},
 	{
 			"Name": "Mobily Free SA (BD)",
