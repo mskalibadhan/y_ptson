@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 105.4,
+	"ConfigVersion": 105.5,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -16,7 +16,7 @@
 		},
 		
         {
-			"Name": "Zain free (DIRECT)",
+			"Name": "Zain free (SD)",
 			"Info": "Zain Free",
 			"FrontQuery": "",
 			"BackQuery": "",
@@ -28,7 +28,7 @@
 		},
 		
         {
-			"Name": "Zain free (INJECT)",
+			"Name": "Zain free (BD)",
 			"Info": "Zain Free without ip",
 			"FrontQuery": "",
 			"BackQuery": "",
