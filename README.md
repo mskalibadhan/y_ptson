@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 105.5,
+	"ConfigVersion": 105.6,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -23,8 +23,8 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Direct": "",
-			"Sni": "😍😍😍😍😍😍😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖",
-			"Payload": ""
+			"Sni": "",
+			"Payload": "😍😍😍😍😍😍😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖"
 		},
 		
         {
@@ -1325,6 +1325,39 @@
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
 			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server spd 61",
+			"ServerHost": "ssh10.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server spd 62",
+			"ServerHost": "159.69.112.249",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server spd 63",
+			"ServerHost": "static.249.112.69.159.clients.your-server.de",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
 			"WarnMsg": false,
 			"Cert":"A",
 			"Torrent": false
