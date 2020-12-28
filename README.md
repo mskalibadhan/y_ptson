@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 105.6,
+	"ConfigVersion": 105.7,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -22,9 +22,9 @@
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
-			"Direct": "",
+			"Direct": "😍😍😍😍😍😍😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖",
 			"Sni": "",
-			"Payload": "😍😍😍😍😍😍😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖"
+			"Payload": ""
 		},
 		
         {
