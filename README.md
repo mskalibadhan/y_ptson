@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 105.9,
+	"ConfigVersion": 106.0,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -1276,10 +1276,10 @@
 		{
 			"Name": "Server 59",
 			"ServerHost": "ytk59.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "1147",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "80",
+			"SquidPort": "8080",
 			"WarnMsg": false,
 			"Cert":"A",
 			"Torrent": false
@@ -1287,7 +1287,7 @@
 		{
 			"Name": "Server 60",
 			"ServerHost": "ytk60.yourptsn.live",
-			"OvpnPortTCP": "1194",
+			"OvpnPortTCP": "1147",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
 			"SquidPort": "80",
