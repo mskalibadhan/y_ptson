@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 106.3,
+	"ConfigVersion": 106.4,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -1344,7 +1344,7 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server 61 Testing",
+			"Name": "Server zain free",
 			"ServerHost": "testing.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
@@ -1352,6 +1352,116 @@
 			"SquidPort": "80",
 			"WarnMsg": false,
 			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 61",
+			"ServerHost": "yt1.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 62",
+			"ServerHost": "yt2.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 63",
+			"ServerHost": "yt3.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 64",
+			"ServerHost": "yt4.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 65",
+			"ServerHost": "yt5.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 66",
+			"ServerHost": "yt6.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 67",
+			"ServerHost": "yt7.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 68",
+			"ServerHost": "yt8.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 69",
+			"ServerHost": "yt9.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 70",
+			"ServerHost": "yt10.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
 			"Torrent": false
 		}
 	]
