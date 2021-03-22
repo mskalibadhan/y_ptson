@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 106.5,
+	"ConfigVersion": 106.6,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -1473,6 +1473,17 @@
 			"SquidPort": "8080",
 			"WarnMsg": false,
 			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server BD1",
+			"ServerHost": "bd1.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "4443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"A",
 			"Torrent": false
 		}
 	]
