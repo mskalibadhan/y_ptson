@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 106.7,
+	"ConfigVersion": 106.8,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -1487,9 +1487,9 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server zain free2",
+			"Name": "Server zain free 2",
 			"ServerHost": "testing.yourptsn.live",
-			"OvpnPortTCP": "1147",
+			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
