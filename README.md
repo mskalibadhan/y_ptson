@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 106.6,
+	"ConfigVersion": 106.7,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -1355,17 +1355,6 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server zain free",
-			"ServerHost": "testing.yourptsn.live",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "80",
-			"WarnMsg": false,
-			"Cert":"A",
-			"Torrent": false
-		},
-		{
 			"Name": "Server 61",
 			"ServerHost": "yt1.yourptsn.live",
 			"OvpnPortTCP": "1194",
@@ -1481,6 +1470,28 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "4443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server zain free",
+			"ServerHost": "testing.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server zain free2",
+			"ServerHost": "testing.yourptsn.live",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
 			"Cert":"A",
