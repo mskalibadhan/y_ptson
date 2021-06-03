@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 106.8,
+	"ConfigVersion": 106.9,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -16,6 +16,18 @@
 		},
 		
         {
+			"Name": "Omantel Edu Pack (SK)",
+			"Info": "Omantel Dial *666# for 2 OMR Monthly",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😱😖😱😄😱😄😍😁😅🙁😱😍😱😡😱😡😱😍😱😔😱😄😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		
+        {
 			"Name": "Saudi Zain free 1 (SK)",
 			"Info": "Zain Free",
 			"FrontQuery": "",
@@ -24,30 +36,6 @@
 			"CustomProxy": "",
 			"Direct": "",
 			"Sni": "😍😍😍😍😍😍😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖",
-			"Payload": ""
-		},
-		
-        {
-			"Name": "Saudi Zain free 2 (SK)",
-			"Info": "Zain Free",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Direct": "",
-			"Sni": "😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
-			"Payload": ""
-		},
-		
-        {
-			"Name": "Saudi Zain free 3 (SK)",
-			"Info": "Zain Free",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Direct": "",
-			"Sni": "😍😆😱😂😅🙁😍😎😱😂😱😋😱🙁😅🙁😱😆😱😡😱😖",
 			"Payload": ""
 		},
 		
@@ -668,6 +656,18 @@
 			"CustomProxy": "",
 			"Direct": "",
 			"Sni": "😍😍😍😍😍😍😅🙁😱😍😱😡😱😡😱😍😱😔😱😄😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		
+        {
+			"Name": "Google Meet (SK)",
+			"Info": "Google Meet Package",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😱😖😱😄😱😄😍😁😅🙁😱😍😱😡😱😡😱😍😱😔😱😄😅🙁😱😆😱😡😱😖",
 			"Payload": ""
 		},
         {
