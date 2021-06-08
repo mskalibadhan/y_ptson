@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 106.9,
+	"ConfigVersion": 107.0,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -28,15 +28,15 @@
 		},
 		
         {
-			"Name": "Saudi Zain free 1 (SK)",
+			"Name": "Qatar Ooredoo Free (BD)",
 			"Info": "Zain Free",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Direct": "",
-			"Sni": "😍😍😍😍😍😍😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖",
-			"Payload": ""
+			"Sni": "",
+			"Payload": "😁😍😁😄😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😅😛😁😘😄😁😄😁😄😛😅😡😆😂😅🙁😆😂😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😱😆😱😔😱😡😍😆😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😅😱😄😱😱😱😄😍😅😱😄😍😅😆😎😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😱😱😡😍😅😍😍😱😂😍😅😱😁😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
 		},
 		
         {
@@ -671,15 +671,15 @@
 			"Payload": ""
 		},
         {
-            "Name": "Qatar Flexi Plan 60 QR (BD)",
+            "Name": "Qatar Ooredoo Free 1 (SK)",
             "Info": "Qatar Ooredoo Network",
             "FrontQuery": "",
             "BackQuery": "",
             "UseCustom": false,
             "CustomProxy": "",
             "Direct": "",
-            "Sni": "",
-            "Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😁😛😍😍😍😍😍😍😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+            "Sni": "😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂",
+            "Payload": ""
         }
 	],
 	"Servers": [
