@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 107.0,
+	"ConfigVersion": 107.1,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -140,14 +140,14 @@
 			"Payload": ""
 		},
 		{
-			"Name": "STC TV 1 (SK)",
-			"Info": "Saudi Stc Net",
+			"Name": "STC Jawwy 50 SAR (SK)",
+			"Info": "Jawwy Every day 1 gb for monthly 60 sar",
 			"FrontQuery": "",
 			"BackQuery": "",
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Direct": "",
-			"Sni": "😍😍😍😍😍😍😅🙁😱😎😱😂😍😍😍😍😍😋😅🙁😍😁😍😱",
+			"Sni": "😱😖😅🙁😍😋😱😡😍😄😍😁😍😄😱😅😱😄😅🙁😱😆😱😡😱😖",
 			"Payload": ""
 		},
 		{
@@ -381,6 +381,28 @@
 			"CustomProxy": "",
 			"Direct": "",
 			"Sni": "😍😍😍😍😍😍😅🙁😱😘😍😄😱🙁😱😍😱😂😱😖😱😂😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
+			"Name": "Ooredoo Euro Pack 250 MVR (SK)",
+			"Info": "Ooredoo 250 Rupies for monthly euro pack", 
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😍😁😱😋😱😟😍😁😱😡😱😟😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
+			"Name": "Ooredoo Euro Pack 20 GB (SK)",
+			"Info": "Ooredoo 250 Rupies for monthly euro pack", 
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😍😆😱😡😱🙁😍😋😱😔😱😋😍😱😅🙁😱😆😱😡😱😖",
 			"Payload": ""
 		},
 		{
@@ -1356,6 +1378,116 @@
 		},
 		{
 			"Name": "Server 61",
+			"ServerHost": "ytk61.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 62",
+			"ServerHost": "ytk62.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 63",
+			"ServerHost": "ytk63.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 64",
+			"ServerHost": "ytk64.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 65",
+			"ServerHost": "ytk65.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 66",
+			"ServerHost": "ytk66.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 67",
+			"ServerHost": "ytk67.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 68",
+			"ServerHost": "ytk58.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 69",
+			"ServerHost": "ytk59.yourptsn.live",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 70",
+			"ServerHost": "ytk60.yourptsn.live",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 71",
 			"ServerHost": "yt1.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "53",
@@ -1366,7 +1498,7 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server 62",
+			"Name": "Server 72",
 			"ServerHost": "yt2.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "53",
@@ -1377,7 +1509,7 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server 63",
+			"Name": "Server 73",
 			"ServerHost": "yt3.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "53",
@@ -1388,7 +1520,7 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server 64",
+			"Name": "Server 74",
 			"ServerHost": "yt4.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "53",
@@ -1399,7 +1531,7 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server 65",
+			"Name": "Server 75",
 			"ServerHost": "yt5.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "53",
@@ -1410,7 +1542,7 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server 66",
+			"Name": "Server 76",
 			"ServerHost": "yt6.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "53",
@@ -1421,7 +1553,7 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server 67",
+			"Name": "Server 77",
 			"ServerHost": "yt7.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "53",
@@ -1432,7 +1564,7 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server 68",
+			"Name": "Server 78",
 			"ServerHost": "yt8.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "53",
@@ -1443,7 +1575,7 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server 69",
+			"Name": "Server 79",
 			"ServerHost": "yt9.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "53",
@@ -1454,7 +1586,7 @@
 			"Torrent": false
 		},
 		{
-			"Name": "Server 70",
+			"Name": "Server 80",
 			"ServerHost": "yt10.yourptsn.live",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "53",
@@ -1470,28 +1602,6 @@
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "4443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"A",
-			"Torrent": false
-		},
-		{
-			"Name": "Server zain free",
-			"ServerHost": "testing.yourptsn.live",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "80",
-			"WarnMsg": false,
-			"Cert":"A",
-			"Torrent": false
-		},
-		{
-			"Name": "Server zain free 2",
-			"ServerHost": "testing.yourptsn.live",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
 			"SquidPort": "8080",
 			"WarnMsg": false,
 			"Cert":"A",
