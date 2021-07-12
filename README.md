@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 107.1,
+	"ConfigVersion": 107.2,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -693,7 +693,7 @@
 			"Payload": ""
 		},
         {
-            "Name": "Qatar Ooredoo Free 1 (SK)",
+            "Name": "Qatar Ooredoo Free 1(SK)",
             "Info": "Qatar Ooredoo Network",
             "FrontQuery": "",
             "BackQuery": "",
@@ -702,6 +702,17 @@
             "Direct": "",
             "Sni": "😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂",
             "Payload": ""
+        },
+        {
+            "Name": "Qatar Vodafone Free(BD)",
+            "Info": "Qatar Vodafone Free",
+            "FrontQuery": "",
+            "BackQuery": "",
+            "UseCustom": false,
+            "CustomProxy": "",
+            "Direct": "",
+            "Sni": "",
+            "Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😍😱😱😡😱😁😱😂😱😱😱😡😱🙁😱😄😅🙁😱😆😱😡😱😖😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
         }
 	],
 	"Servers": [
@@ -1605,6 +1616,28 @@
 			"SquidPort": "8080",
 			"WarnMsg": false,
 			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server BD2",
+			"ServerHost": "bd2.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
+			"Torrent": false
+		},
+		{
+			"Name": "Server BD3",
+			"ServerHost": "bd3.yourptsn.live",
+			"OvpnPortTCP": "1194",
+			"OvpnPortUDP": "53",
+			"OvpnPortSSL": "443",
+			"SquidPort": "8080",
+			"WarnMsg": false,
+			"Cert":"C",
 			"Torrent": false
 		}
 	]
