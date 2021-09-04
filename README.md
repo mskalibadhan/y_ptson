@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":107.4,
+   "ConfigVersion":107.5,
    "ConfigUpdateMsg":"Added Premium Servers",
    "WarningMsg":"Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
    "Networks":[
@@ -1601,8 +1601,8 @@
          "Torrent":false
       },
       {
-         "Name":"Server 81",
-         "ServerHost":"194.233.76.203",
+         "Name":"Server zain 81",
+         "ServerHost":"ecol-zain.responsetek.com.194.233.76.203",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
@@ -1612,8 +1612,8 @@
          "Torrent":false
       },
       {
-         "Name":"Server 82",
-         "ServerHost":"62.171.154.80",
+         "Name":"Server zain 82",
+         "ServerHost":"ecol-zain.responsetek.com.62.171.154.80",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
@@ -1623,8 +1623,8 @@
          "Torrent":false
       },
       {
-         "Name":"Server 83",
-         "ServerHost":"62.171.157.111",
+         "Name":"Server zain 83",
+         "ServerHost":"ecol-zain.responsetek.com.62.171.157.111",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
@@ -1634,8 +1634,8 @@
          "Torrent":false
       },
       {
-         "Name":"Server 84",
-         "ServerHost":"194.163.163.35",
+         "Name":"Server zain 84",
+         "ServerHost":"ecol-zain.responsetek.com.194.163.163.35",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
@@ -1645,8 +1645,8 @@
          "Torrent":false
       },
       {
-         "Name":"Server 85",
-         "ServerHost":"144.126.154.95",
+         "Name":"Server zain 85",
+         "ServerHost":"ecol-zain.responsetek.com.144.126.154.95",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
