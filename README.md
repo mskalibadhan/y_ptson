@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":107.7,
+   "ConfigVersion":107.8,
    "ConfigUpdateMsg":"Added Premium Servers",
    "WarningMsg":"Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
    "Networks":[
@@ -737,7 +737,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -748,7 +748,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -759,7 +759,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -770,7 +770,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -781,7 +781,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -792,7 +792,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -803,7 +803,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -814,7 +814,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -825,7 +825,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -836,7 +836,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -847,7 +847,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -858,7 +858,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"9090",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -869,7 +869,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"9090",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -880,7 +880,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"9090",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -891,7 +891,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"9090",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -902,7 +902,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8000",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -913,7 +913,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8000",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -924,7 +924,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8000",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -935,7 +935,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8000",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1177,7 +1177,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"3128",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1188,7 +1188,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"3128",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1199,7 +1199,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"3128",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1210,7 +1210,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"3128",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1221,7 +1221,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"3128",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1232,7 +1232,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1243,7 +1243,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1254,7 +1254,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1265,7 +1265,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1276,7 +1276,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1397,7 +1397,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1408,7 +1408,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1419,7 +1419,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1430,7 +1430,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1441,7 +1441,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1452,7 +1452,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1463,7 +1463,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1474,7 +1474,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1485,7 +1485,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
@@ -1496,7 +1496,7 @@
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
-         "SquidPort":"80",
+         "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"A",
          "Torrent":false
