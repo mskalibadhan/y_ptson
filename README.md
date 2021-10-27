@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":107.8,
+   "ConfigVersion":107.9,
    "ConfigUpdateMsg":"Added Premium Servers",
    "WarningMsg":"Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
    "Networks":[
@@ -23,6 +23,17 @@
          "CustomProxy":"",
          "Direct":"",
          "Sni":"😱😄😱😆😱😡😱😔😅😖😍😎😱😂😱😋😱🙁😅🙁😍😅😱😄😍😆😍😛😱😡😱🙁😍😆😱😄😍😁😱😄😱😟😅🙁😱😆😱😡😱😖",
+         "Payload":""
+      },
+      {
+         "Name":"Saudi Zain free 2 (SK)",
+         "Info":"Zain Network",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
          "Payload":""
       },
       {
@@ -1521,6 +1532,116 @@
          "SquidPort":"8080",
          "WarnMsg":false,
          "Cert":"C",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 1",
+         "ServerHost":"dns1.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 2",
+         "ServerHost":"dns2.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 3",
+         "ServerHost":"dns3.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 4",
+         "ServerHost":"dns4.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 5",
+         "ServerHost":"dns5.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 6",
+         "ServerHost":"dns6.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 7",
+         "ServerHost":"dns7.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 8",
+         "ServerHost":"dns8.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 9",
+         "ServerHost":"dns9.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 10",
+         "ServerHost":"dns10.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
          "Torrent":false
       }
    ]
