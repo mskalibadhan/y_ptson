@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":107.9,
+   "ConfigVersion":107.10,
    "ConfigUpdateMsg":"Added Premium Servers",
    "WarningMsg":"Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
    "Networks":[
@@ -12,6 +12,39 @@
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
+         "Payload":""
+      },
+      {
+         "Name":"Maldives 100 GB youtube Pack (SK)",
+         "Info":"ooredoo for youtube browsing",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"😱😖😅🙁😍😋😱😡😍😄😍😁😍😄😱😅😱😄😅🙁😱😆😱😡😱😖",
+         "Payload":""
+      },
+      {
+         "Name":"Maldives 100 GB TikTok Pack (SK)",
+         "Info":"ooredoo TikTok social",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"😍😍😍😍😍😍😅🙁😍😁😱😋😱😟😍😁😱😡😱😟😅🙁😱😆😱😡😱😖",
+         "Payload":""
+      },
+      {
+         "Name":"Maldives Snapchat Package (SK)",
+         "Info":"All Network Social",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
          "Payload":""
       },
       {
@@ -1074,226 +1107,6 @@
       },
       {
          "Name":"Server 31",
-         "ServerHost":"ytk31.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 32",
-         "ServerHost":"ytk32.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 33",
-         "ServerHost":"ytk33.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 34",
-         "ServerHost":"ytk34.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 35",
-         "ServerHost":"ytk35.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 36",
-         "ServerHost":"ytk36.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 37",
-         "ServerHost":"ytk37.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 38",
-         "ServerHost":"ytk38.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 39",
-         "ServerHost":"ytk39.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 40",
-         "ServerHost":"ytk40.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 41",
-         "ServerHost":"ytk41.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"3128",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 42",
-         "ServerHost":"ytk42.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"3128",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 43",
-         "ServerHost":"ytk43.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"3128",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 44",
-         "ServerHost":"ytk44.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"3128",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 45",
-         "ServerHost":"ytk45.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"3128",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 46",
-         "ServerHost":"ytk46.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 47",
-         "ServerHost":"ytk47.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 48",
-         "ServerHost":"ytk48.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 49",
-         "ServerHost":"ytk49.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 50",
-         "ServerHost":"ytk50.yourptsn.live",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server 51",
          "ServerHost":"yt1.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1304,7 +1117,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 52",
+         "Name":"Server 32",
          "ServerHost":"yt2.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1315,7 +1128,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 53",
+         "Name":"Server 33",
          "ServerHost":"yt3.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1326,7 +1139,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 54",
+         "Name":"Server 34",
          "ServerHost":"yt4.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1337,7 +1150,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 55",
+         "Name":"Server 35",
          "ServerHost":"yt5.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1348,7 +1161,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 56",
+         "Name":"Server 36",
          "ServerHost":"yt6.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1359,7 +1172,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 57",
+         "Name":"Server 37",
          "ServerHost":"yt7.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1370,7 +1183,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 58",
+         "Name":"Server 38",
          "ServerHost":"yt8.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1381,7 +1194,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 59",
+         "Name":"Server 39",
          "ServerHost":"yt9.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1392,7 +1205,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 60",
+         "Name":"Server 40",
          "ServerHost":"yt10.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1403,118 +1216,8 @@
          "Torrent":false
       },
       {
-         "Name":"Server zain 61",
-         "ServerHost":"ecol-zain.responsetek.com.194.233.76.203.sakalakadns.com",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server zain 62",
-         "ServerHost":"ecol-zain.responsetek.com.62.171.154.80.sakalakadns.com",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server zain 63",
-         "ServerHost":"ecol-zain.responsetek.com.62.171.157.111.sakalakadns.com",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server zain 64",
-         "ServerHost":"ecol-zain.responsetek.com.194.163.163.35.sakalakadns.com",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server zain 65",
-         "ServerHost":"ecol-zain.responsetek.com.144.126.154.95.sakalakadns.com",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server zain 66",
-         "ServerHost":"ecol-zain.responsetek.com.207.244.254.110.sakalakadns.com",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server zain 67",
-         "ServerHost":"ecol-zain.responsetek.com.161.97.167.72.sakalakadns.com",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server zain 68",
-         "ServerHost":"ecol-zain.responsetek.com.207.244.253.203.sakalakadns.com",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server zain 69",
-         "ServerHost":"ecol-zain.responsetek.com.207.244.253.168.sakalakadns.com",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
-         "Name":"Server zain 70",
-         "ServerHost":"ecol-zain.responsetek.com.207.244.254.21.sakalakadns.com",
-         "OvpnPortTCP":"1194",
-         "OvpnPortUDP":"55",
-         "OvpnPortSSL":"443",
-         "SquidPort":"8080",
-         "WarnMsg":false,
-         "Cert":"A",
-         "Torrent":false
-      },
-      {
          "Name":"Server BD1",
-         "ServerHost":"bd1.yourptsn.live",
+         "ServerHost":"bd1.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"4443",
@@ -1525,13 +1228,123 @@
       },
       {
          "Name":"Server BD2",
-         "ServerHost":"bd2.yourptsn.live",
+         "ServerHost":"bd2.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
          "SquidPort":"8080",
          "WarnMsg":false,
-         "Cert":"C",
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server zain1",
+         "ServerHost":"ecol-zain.responsetek.com.194.233.76.203.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server zain2",
+         "ServerHost":"ecol-zain.responsetek.com.62.171.154.80.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server zain3",
+         "ServerHost":"ecol-zain.responsetek.com.62.171.157.111.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server zain4",
+         "ServerHost":"ecol-zain.responsetek.com.194.163.163.35.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server zain5",
+         "ServerHost":"ecol-zain.responsetek.com.144.126.154.95.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server zain6",
+         "ServerHost":"ecol-zain.responsetek.com.207.244.254.110.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server zain7",
+         "ServerHost":"ecol-zain.responsetek.com.161.97.167.72.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server zain8",
+         "ServerHost":"ecol-zain.responsetek.com.207.244.253.203.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server zain9",
+         "ServerHost":"ecol-zain.responsetek.com.207.244.253.168.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server zain10",
+         "ServerHost":"ecol-zain.responsetek.com.207.244.254.21.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
          "Torrent":false
       },
       {
@@ -1636,6 +1449,61 @@
       {
          "Name":"Server freenet 10",
          "ServerHost":"dns10.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 11",
+         "ServerHost":"dns11.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 12",
+         "ServerHost":"dns12.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 13",
+         "ServerHost":"dns13.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 14",
+         "ServerHost":"dns14.sakalakadns.com",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server freenet 15",
+         "ServerHost":"dns15.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"55",
          "OvpnPortSSL":"443",
