@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":107.10,
+   "ConfigVersion":107.11,
    "ConfigUpdateMsg":"Added Premium Servers",
    "WarningMsg":"Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
    "Networks":[
@@ -1107,6 +1107,226 @@
       },
       {
          "Name":"Server 31",
+         "ServerHost":"ytk31.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8080",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 32",
+         "ServerHost":"ytk32.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"9090",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 33",
+         "ServerHost":"ytk33.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"9090",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 34",
+         "ServerHost":"ytk34.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"9090",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 35",
+         "ServerHost":"ytk35.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"9090",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 36",
+         "ServerHost":"ytk36.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8000",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 37",
+         "ServerHost":"ytk37.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8000",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 38",
+         "ServerHost":"ytk38.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8000",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 39",
+         "ServerHost":"ytk39.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8000",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 40",
+         "ServerHost":"ytk40.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 41",
+         "ServerHost":"ytk41.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 42",
+         "ServerHost":"ytk42.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 43",
+         "ServerHost":"ytk43.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 44",
+         "ServerHost":"ytk44.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"45",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 45",
+         "ServerHost":"ytk45.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 46",
+         "ServerHost":"ytk46.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 47",
+         "ServerHost":"ytk47.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 48",
+         "ServerHost":"ytk48.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 49",
+         "ServerHost":"ytk49.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 50",
+         "ServerHost":"ytk50.yourptsn.live",
+         "OvpnPortTCP":"1194",
+         "OvpnPortUDP":"55",
+         "OvpnPortSSL":"443",
+         "SquidPort":"8010",
+         "WarnMsg":false,
+         "Cert":"A",
+         "Torrent":false
+      },
+      {
+         "Name":"Server 51",
          "ServerHost":"yt1.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1117,7 +1337,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 32",
+         "Name":"Server 52",
          "ServerHost":"yt2.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1128,7 +1348,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 33",
+         "Name":"Server 53",
          "ServerHost":"yt3.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1139,7 +1359,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 34",
+         "Name":"Server 54",
          "ServerHost":"yt4.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1150,7 +1370,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 35",
+         "Name":"Server 55",
          "ServerHost":"yt5.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1161,7 +1381,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 36",
+         "Name":"Server 56",
          "ServerHost":"yt6.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1172,7 +1392,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 37",
+         "Name":"Server 57",
          "ServerHost":"yt7.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1183,7 +1403,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 38",
+         "Name":"Server 58",
          "ServerHost":"yt8.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1194,7 +1414,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 39",
+         "Name":"Server 59",
          "ServerHost":"yt9.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
@@ -1205,7 +1425,7 @@
          "Torrent":false
       },
       {
-         "Name":"Server 40",
+         "Name":"Server 60",
          "ServerHost":"yt10.yourptsn.live",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
