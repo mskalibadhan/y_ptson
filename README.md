@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":107.13,
+   "ConfigVersion":107.14,
    "ConfigUpdateMsg":"Added Premium Servers",
    "WarningMsg":"Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
    "Networks":[
@@ -777,7 +777,7 @@
    "Servers":[
       {
          "Name":"AutoSelect Servers",
-         "ServerHost":"ytk1.sakalakadns.com",
+         "ServerHost":"dns1.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -788,7 +788,7 @@
       },
       {
          "Name":"Server 1",
-         "ServerHost":"ytk1.sakalakadns.com",
+         "ServerHost":"dns1.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -799,7 +799,7 @@
       },
       {
          "Name":"Server 2",
-         "ServerHost":"ytk2.sakalakadns.com",
+         "ServerHost":"dns2.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -810,7 +810,7 @@
       },
       {
          "Name":"Server 3",
-         "ServerHost":"ytk3.sakalakadns.com",
+         "ServerHost":"dns3.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -821,7 +821,7 @@
       },
       {
          "Name":"Server 4",
-         "ServerHost":"ytk4.sakalakadns.com",
+         "ServerHost":"dns4.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -832,7 +832,7 @@
       },
       {
          "Name":"Server 5",
-         "ServerHost":"ytk5.sakalakadns.com",
+         "ServerHost":"dns5.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -843,7 +843,7 @@
       },
       {
          "Name":"Server 6",
-         "ServerHost":"ytk6.sakalakadns.com",
+         "ServerHost":"dns6.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -854,7 +854,7 @@
       },
       {
          "Name":"Server 7",
-         "ServerHost":"ytk7.sakalakadns.com",
+         "ServerHost":"dns7.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -865,7 +865,7 @@
       },
       {
          "Name":"Server 8",
-         "ServerHost":"ytk8.sakalakadns.com",
+         "ServerHost":"dns8.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -876,7 +876,7 @@
       },
       {
          "Name":"Server 9",
-         "ServerHost":"ytk9.sakalakadns.com",
+         "ServerHost":"dns9.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -887,7 +887,7 @@
       },
       {
          "Name":"Server 10",
-         "ServerHost":"ytk10.sakalakadns.com",
+         "ServerHost":"dns10.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -898,7 +898,7 @@
       },
       {
          "Name":"Server 11",
-         "ServerHost":"ytk11.sakalakadns.com",
+         "ServerHost":"dns11.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -909,7 +909,7 @@
       },
       {
          "Name":"Server 12",
-         "ServerHost":"ytk12.sakalakadns.com",
+         "ServerHost":"dns12.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -920,7 +920,7 @@
       },
       {
          "Name":"Server 13",
-         "ServerHost":"ytk13.sakalakadns.com",
+         "ServerHost":"dns13.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -931,7 +931,7 @@
       },
       {
          "Name":"Server 14",
-         "ServerHost":"ytk14.sakalakadns.com",
+         "ServerHost":"dns14.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -942,7 +942,7 @@
       },
       {
          "Name":"Server 15",
-         "ServerHost":"ytk15.sakalakadns.com",
+         "ServerHost":"dns15.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -953,7 +953,7 @@
       },
       {
          "Name":"Server 16",
-         "ServerHost":"ytk16.sakalakadns.com",
+         "ServerHost":"dns16.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -964,7 +964,7 @@
       },
       {
          "Name":"Server 17",
-         "ServerHost":"ytk17.sakalakadns.com",
+         "ServerHost":"dns17.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -975,7 +975,7 @@
       },
       {
          "Name":"Server 18",
-         "ServerHost":"ytk18.sakalakadns.com",
+         "ServerHost":"dns18.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -986,7 +986,7 @@
       },
       {
          "Name":"Server 19",
-         "ServerHost":"ytk19.sakalakadns.com",
+         "ServerHost":"dns19.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -997,7 +997,7 @@
       },
       {
          "Name":"Server 20",
-         "ServerHost":"ytk20.sakalakadns.com",
+         "ServerHost":"dns20.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1008,7 +1008,7 @@
       },
       {
          "Name":"Server 21",
-         "ServerHost":"ytk21.sakalakadns.com",
+         "ServerHost":"dns21.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1019,7 +1019,7 @@
       },
       {
          "Name":"Server 22",
-         "ServerHost":"ytk22.sakalakadns.com",
+         "ServerHost":"dns22.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1030,7 +1030,7 @@
       },
       {
          "Name":"Server 23",
-         "ServerHost":"ytk23.sakalakadns.com",
+         "ServerHost":"dns23.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1041,7 +1041,7 @@
       },
       {
          "Name":"Server 24",
-         "ServerHost":"ytk24.sakalakadns.com",
+         "ServerHost":"dns24.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1052,7 +1052,7 @@
       },
       {
          "Name":"Server 25",
-         "ServerHost":"ytk25.sakalakadns.com",
+         "ServerHost":"dns25.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1063,7 +1063,7 @@
       },
       {
          "Name":"Server 26",
-         "ServerHost":"ytk26.sakalakadns.com",
+         "ServerHost":"dns26.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1074,7 +1074,7 @@
       },
       {
          "Name":"Server 27",
-         "ServerHost":"ytk27.sakalakadns.com",
+         "ServerHost":"dns27.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1085,7 +1085,7 @@
       },
       {
          "Name":"Server 28",
-         "ServerHost":"ytk28.sakalakadns.com",
+         "ServerHost":"dns28.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1096,7 +1096,7 @@
       },
       {
          "Name":"Server 29",
-         "ServerHost":"ytk29.sakalakadns.com",
+         "ServerHost":"dns29.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1107,7 +1107,7 @@
       },
       {
          "Name":"Server 30",
-         "ServerHost":"ytk30.sakalakadns.com",
+         "ServerHost":"dns30.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1118,7 +1118,7 @@
       },
       {
          "Name":"Server 31",
-         "ServerHost":"ytk31.sakalakadns.com",
+         "ServerHost":"dns31.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1129,7 +1129,7 @@
       },
       {
          "Name":"Server 32",
-         "ServerHost":"ytk32.sakalakadns.com",
+         "ServerHost":"dns32.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1140,7 +1140,7 @@
       },
       {
          "Name":"Server 33",
-         "ServerHost":"ytk33.sakalakadns.com",
+         "ServerHost":"dns33.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1151,7 +1151,7 @@
       },
       {
          "Name":"Server 34",
-         "ServerHost":"ytk34.sakalakadns.com",
+         "ServerHost":"dns34.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1162,7 +1162,7 @@
       },
       {
          "Name":"Server 35",
-         "ServerHost":"ytk35.sakalakadns.com",
+         "ServerHost":"dns35.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1173,7 +1173,7 @@
       },
       {
          "Name":"Server 36",
-         "ServerHost":"ytk36.sakalakadns.com",
+         "ServerHost":"dns36.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1184,7 +1184,7 @@
       },
       {
          "Name":"Server 37",
-         "ServerHost":"ytk37.sakalakadns.com",
+         "ServerHost":"dns37.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1195,7 +1195,7 @@
       },
       {
          "Name":"Server 38",
-         "ServerHost":"ytk38.sakalakadns.com",
+         "ServerHost":"dns38.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1206,7 +1206,7 @@
       },
       {
          "Name":"Server 39",
-         "ServerHost":"ytk39.sakalakadns.com",
+         "ServerHost":"dns39.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1217,7 +1217,7 @@
       },
       {
          "Name":"Server 40",
-         "ServerHost":"ytk40.sakalakadns.com",
+         "ServerHost":"dns40.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1228,7 +1228,7 @@
       },
       {
          "Name":"Server 41",
-         "ServerHost":"ytk41.sakalakadns.com",
+         "ServerHost":"dns41.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1239,7 +1239,7 @@
       },
       {
          "Name":"Server 42",
-         "ServerHost":"ytk42.sakalakadns.com",
+         "ServerHost":"dns42.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1250,7 +1250,7 @@
       },
       {
          "Name":"Server 43",
-         "ServerHost":"ytk43.sakalakadns.com",
+         "ServerHost":"dns43.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1261,7 +1261,7 @@
       },
       {
          "Name":"Server 44",
-         "ServerHost":"ytk44.sakalakadns.com",
+         "ServerHost":"dns44.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1272,7 +1272,7 @@
       },
       {
          "Name":"Server 45",
-         "ServerHost":"ytk45.sakalakadns.com",
+         "ServerHost":"dns45.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1283,7 +1283,7 @@
       },
       {
          "Name":"Server 46",
-         "ServerHost":"ytk46.sakalakadns.com",
+         "ServerHost":"dns46.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1294,7 +1294,7 @@
       },
       {
          "Name":"Server 47",
-         "ServerHost":"ytk47.sakalakadns.com",
+         "ServerHost":"dns47.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1305,7 +1305,7 @@
       },
       {
          "Name":"Server 48",
-         "ServerHost":"ytk48.sakalakadns.com",
+         "ServerHost":"dns48.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1316,7 +1316,7 @@
       },
       {
          "Name":"Server 49",
-         "ServerHost":"ytk49.sakalakadns.com",
+         "ServerHost":"dns49.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
@@ -1327,7 +1327,7 @@
       },
       {
          "Name":"Server 50",
-         "ServerHost":"ytk50.sakalakadns.com",
+         "ServerHost":"dns50.sakalakadns.com",
          "OvpnPortTCP":"1194",
          "OvpnPortUDP":"53",
          "OvpnPortSSL":"443",
